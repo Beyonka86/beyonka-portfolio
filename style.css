@@ -1,0 +1,111 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+}
+
+header {
+  background: url("data-background.jpg") center center / cover no-repeat;
+  color: white;
+  padding: 60px 20px 40px;
+  text-align: center;
+  position: relative;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #eee;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid white;
+  margin-bottom: 15px;
+}
+
+#contact p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+#contact i {
+  margin-right: 10px;
+  color: #005a9c;
+}
+#experience .job {
+  margin-bottom: 25px;
+}
+
+#experience h3 {
+  margin-bottom: 5px;
+  color: #005a9c;
+}
+
+#experience ul {
+  padding-left: 20px;
+}
+#experience .job {
+  margin-bottom: 25px;
+}
+
+#experience h3 {
+  margin-bottom: 5px;
+  color: #005a9c;
+}
+
+#experience ul {
+  padding-left: 20px;
+}
+#education ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+#education li {
+  margin-bottom: 15px;
+}
+header {
+  position: relative;
+  background: url("data-background.jpg") center center / cover no-repeat;
+  color: white;
+  padding: 60px 20px 40px;
+  text-align: center;
+}
+
+header .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4); /* transparent dark overlay */
+  z-index: 0;
+}
+
+header * {
+  position: relative;
+  z-index: 1;
+}
+
+
