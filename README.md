@@ -1,49 +1,50 @@
-# 💻 Beyonka Powell | Data Portfolio
+# Beyonka G. Powell | Data Portfolio
 
-Welcome to my data portfolio! I'm combining over 13 years of healthcare and medical laboratory experience with data science to create meaningful, impactful insights.
-
-This portfolio highlights projects where I’ve translated real-world lab workflows into data-driven solutions using tools like Power BI, Python, and SQL.
+A healthcare data analyst with 13+ years of clinical experience now building data science solutions that improve healthcare operations and patient outcomes.
 
 ---
 
 ## 🌐 Live Website
-
-🖥️ [Click here to view my portfolio](https://beyonka86.github.io/beyonka-portfolio/)
-
-[![Visit Portfolio](https://img.shields.io/badge/View%20Live%20Site-Click%20Here-blue?style=for-the-badge)](https://beyonka86.github.io/beyonka-portfolio/)
+[![Visit Portfolio](https://img.shields.io/badge/View%20Live%20Site-Click%20Here-blue?style=for-the-badge)](https://Beyonka86.github.io)
 
 ---
 
-## 📊 Featured Project: Epic Beaker Lab Turnaround Analysis
+## 📊 Featured Projects
 
-A simulation project reflecting the role of an Epic Beaker Analyst using mock lab data. I built a full Power BI dashboard to uncover lab delays, identify bottlenecks, and provide insights to improve operational efficiency and patient care.
-
-**Tools used:** Power BI, Excel, Python, Clinical Workflow Knowledge
+- **Credit Risk Classification** — Logistic regression binary classifier achieving 99% accuracy with full precision/recall analysis
+- **Deep Learning Neural Network** — TensorFlow/Keras model optimized for binary classification
+- **Healthcare Operations Dashboard** — End-to-end Python/SQLite/Streamlit data pipeline and interactive dashboard
+- **Pymaceuticals Clinical Study** — Regression and correlation analysis on 249-subject clinical trial data
+- **Epic Beaker Lab Turnaround Dashboard** — Power BI dashboard simulating Epic Beaker analyst workflows
 
 ---
 
 ## 🎓 Education
 
-- **B.S. in Data Science** (In Progress) – Arizona State University
-- **Certificate in Data Science & Visualization** – Southern Methodist University
-- **Associate Degrees** – Biology & Medical Laboratory Technology
+- **B.S. in Informatics and Data Science** (In Progress) — Texas Woman's University
+- **Certificate in Data Science & Visualization** — Southern Methodist University (2024)
+- **Associate of Arts & Science in Medical Laboratory Technology** — Navarro College (2012)
+- **Associate of Science in Biology** — Navarro College (2007)
 
 ---
 
 ## 🛠 Tools & Skills
 
-- **Languages:** Python, SQL, Excel
-- **Visualization:** Power BI, Matplotlib
-- **Workflow Understanding:** Epic Beaker (simulated), Clinical Lab Ops
+- **Languages:** Python, SQL, R
+- **Machine Learning:** scikit-learn, TensorFlow, Keras, logistic regression, neural networks
+- **Data Engineering:** Pandas, NumPy, SQLite, ETL pipelines
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn, Streamlit
+- **Clinical Systems:** Epic (Beaker), Meditech, Sunquest, CPSI
+- **Tools:** Git, GitHub, Google Colab, VS Code, Excel (VBA)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: [beyonkap1986@email.com](mailto:beyonkap1986@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/beyonkapowell0405](https://linkedin.com/in/beyonkapowell0405)
-- 🖥️ GitHub: [github.com/Beyonka86](https://github.com/Beyonka86)
+- 📧 beyonkap1986@gmail.com
+- 💼 [linkedin.com/in/beyonkapowell0405](https://linkedin.com/in/beyonkapowell0405)
+- 🖥️ [github.com/Beyonka86](https://github.com/Beyonka86)
 
 ---
 
-Thanks for visiting! I'm open to internships, collaborations, and full-time roles that value healthcare expertise and a hunger to grow in data.
+*Open to healthcare data analyst, clinical informatics, Epic analyst, and junior data analyst roles.*se and a hunger to grow in data.
