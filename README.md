@@ -5,8 +5,7 @@ A healthcare data analyst with 13+ years of clinical experience now building dat
 ---
 
 ## 🌐 Live Website
-[![Visit Portfolio](https://img.shields.io/badge/View%20Live%20Site-Click%20Here-blue?style=for-the-badge)](https://Beyonka86.github.io)
-
+[![Visit Portfolio](https://img.shields.io/badge/View%20Live%20Site-Click%20Here-blue?style=for-the-badge)](https://beyonka86.github.io/beyonka-portfolio/)
 ---
 
 ## 📊 Featured Projects
